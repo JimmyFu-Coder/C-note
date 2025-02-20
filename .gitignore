@@ -1,0 +1,29 @@
+# Obsidian 插件数据（可根据需要调整）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/cache.json
+
+# 文件缓存
+.obsidian/cache/
+.obsidian/index.json
+
+# 日志文件
+.obsidian/logs/
+
+# 文件历史记录（Obsidian 自带版本控制）
+.obsidian/trash/
+
+# 临时文件和系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Windows 临时文件
+desktop.ini
+
+# MacOS 相关
+._*
+
+**/*.json
